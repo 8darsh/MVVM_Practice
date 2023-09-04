@@ -1,0 +1,1116 @@
+{
+  "apikey": "a73369a4-14e7-4e3d-84f0-73b8ec75e344",
+  "data": [
+    {
+      "id": "6b80b7e9-dd60-4107-8792-17a0b3a9fc84",
+      "name": "Cameroon Women vs Eswatini Women, 8th Match, Group B",
+      "matchType": "t20",
+      "status": "Cameroon Women won by 62 runs",
+      "venue": "Botswana Cricket Association Oval 2, Gaborone",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T11:50:00",
+      "teams": [
+        "Cameroon Women",
+        "Eswatini Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cameroon Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+        },
+        {
+          "name": "Eswatini Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 4,
+          "o": 20,
+          "inning": "Cameroon Women Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 10,
+          "o": 12.3,
+          "inning": "Eswatini Women Inning 1"
+        }
+      ],
+      "series_id": "57186de3-2089-4f52-adbf-286a17186d56",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e052ee87-d8d2-4982-9dd5-0cdcbedfe3eb",
+      "name": "Mozambique Women vs Sierra Leone Women, 7th Match, Group B",
+      "matchType": "t20",
+      "status": "Sierra Leone Women won by 10 wkts",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T11:50:00",
+      "teams": [
+        "Mozambique Women",
+        "Sierra Leone Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mozambique Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sierra Leone Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/6148-638159736955064414.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 55,
+          "w": 10,
+          "o": 16.3,
+          "inning": "Mozambique Women Inning 1"
+        },
+        {
+          "r": 56,
+          "w": 0,
+          "o": 7.1,
+          "inning": "Sierra Leone Women Inning 1"
+        }
+      ],
+      "series_id": "57186de3-2089-4f52-adbf-286a17186d56",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "64bcc2a2-db0d-4b5c-a54b-b08ab7632021",
+      "name": "Botswana Women vs Lesotho Women, 6th Match, Group A",
+      "matchType": "t20",
+      "status": "Botswana Women won by 173 runs",
+      "venue": "Botswana Cricket Association Oval 2, Gaborone",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T07:30:00",
+      "teams": [
+        "Botswana Women",
+        "Lesotho Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Botswana Women",
+          "shortname": "BOW",
+          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+        },
+        {
+          "name": "Lesotho Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 204,
+          "w": 4,
+          "o": 20,
+          "inning": "Botswana Women Inning 1"
+        },
+        {
+          "r": 31,
+          "w": 10,
+          "o": 9,
+          "inning": "Lesotho Women Inning 1"
+        }
+      ],
+      "series_id": "57186de3-2089-4f52-adbf-286a17186d56",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0e39fcbd-7f40-4dd6-83d1-85f3abb47d54",
+      "name": "Kenya Women vs Malawi Women, 5th Match, Group A",
+      "matchType": "t20",
+      "status": "Kenya Women won by 7 wkts",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T07:30:00",
+      "teams": [
+        "Kenya Women",
+        "Malawi Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kenya Women",
+          "shortname": "KEN-W",
+          "img": "https://g.cricapi.com/iapi/3613-638101762433901244.webp?w=48"
+        },
+        {
+          "name": "Malawi Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 62,
+          "w": 8,
+          "o": 20,
+          "inning": "Malawi Women Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 3,
+          "o": 10.5,
+          "inning": "Kenya Women Inning 1"
+        }
+      ],
+      "series_id": "57186de3-2089-4f52-adbf-286a17186d56",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "32a10cca-d864-4685-8fe1-13683c27eb35",
+      "name": "Fiji Women vs Japan Women, 10th Match",
+      "matchType": "t20",
+      "status": "Japan Women won by 8 wkts",
+      "venue": "Vanuatu Cricket Ground (Oval 2), Port Vila",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T02:30:00",
+      "teams": [
+        "Fiji Women",
+        "Japan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji Women",
+          "shortname": "FJI-W",
+          "img": "https://g.cricapi.com/iapi/2549-638004817276161035.png?w=48"
+        },
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 75,
+          "w": 7,
+          "o": 20,
+          "inning": "Fiji Women Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 2,
+          "o": 13.3,
+          "inning": "Japan Women Inning 1"
+        }
+      ],
+      "series_id": "d057b617-ffcb-4abd-a84c-c111d5c0faaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5e1c86e6-372d-4ef5-960a-018e72bb9b72",
+      "name": "Cook Islands Women vs Indonesia Women, 9th Match",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 66 runs",
+      "venue": "Vanuatu Cricket Ground, Port Vila",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T02:30:00",
+      "teams": [
+        "Cook Islands Women",
+        "Indonesia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 144,
+          "w": 3,
+          "o": 20,
+          "inning": "Indonesia Women Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 9,
+          "o": 20,
+          "inning": "Cook Islands Women Inning 1"
+        }
+      ],
+      "series_id": "d057b617-ffcb-4abd-a84c-c111d5c0faaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3d399782-84d3-4323-802e-8172e2bc818d",
+      "name": "Vanuatu Women vs Cook Islands Women, 8th Match",
+      "matchType": "t20",
+      "status": "Vanuatu Women won by 8 wkts",
+      "venue": "Vanuatu Cricket Ground (Oval 2), Port Vila",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T22:30:00",
+      "teams": [
+        "Vanuatu Women",
+        "Cook Islands Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 55,
+          "w": 10,
+          "o": 15.2,
+          "inning": "Cook Islands Women Inning 1"
+        },
+        {
+          "r": 56,
+          "w": 2,
+          "o": 10.2,
+          "inning": "Vanuatu Women Inning 1"
+        }
+      ],
+      "series_id": "d057b617-ffcb-4abd-a84c-c111d5c0faaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9e40d904-2a90-45b9-bce0-4dcbb5341050",
+      "name": "Papua New Guinea Women vs Samoa Women, 7th Match",
+      "matchType": "t20",
+      "status": "Papua New Guinea Women won by 9 wkts",
+      "venue": "Vanuatu Cricket Ground, Port Vila",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T22:30:00",
+      "teams": [
+        "Papua New Guinea Women",
+        "Samoa Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea Women",
+          "shortname": "PN -W",
+          "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+        },
+        {
+          "name": "Samoa Women",
+          "shortname": "SAMWN",
+          "img": "https://g.cricapi.com/iapi/2550-638004821886874966.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 61,
+          "w": 10,
+          "o": 13,
+          "inning": "Samoa Women Inning 1"
+        },
+        {
+          "r": 64,
+          "w": 1,
+          "o": 7.5,
+          "inning": "Papua New Guinea Women Inning 1"
+        }
+      ],
+      "series_id": "d057b617-ffcb-4abd-a84c-c111d5c0faaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5c175746-b488-4a26-80e2-f93f7d7f6eb5",
+      "name": "Cook Islands Women vs Papua New Guinea Women, 4th Match",
+      "matchType": "t20",
+      "status": "Papua New Guinea Women won by 100 runs",
+      "venue": "Vanuatu Cricket Ground, Port Vila",
+      "date": "2023-09-02",
+      "dateTimeGMT": "2023-09-02T22:30:00",
+      "teams": [
+        "Cook Islands Women",
+        "Papua New Guinea Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Papua New Guinea Women",
+          "shortname": "PN -W",
+          "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 2,
+          "o": 20,
+          "inning": "Papua New Guinea Women Inning 1"
+        },
+        {
+          "r": 67,
+          "w": 10,
+          "o": 19.3,
+          "inning": "Cook Islands Women Inning 1"
+        }
+      ],
+      "series_id": "d057b617-ffcb-4abd-a84c-c111d5c0faaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8ddf2002-be5e-4900-913b-820f6e289c01",
+      "name": "Kuwait Women vs Thailand Women, 20th Match, Group B",
+      "matchType": "t20",
+      "status": "No result",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T05:30:00",
+      "teams": [
+        "Kuwait Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait Women",
+          "shortname": "KU-W",
+          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 22,
+          "w": 4,
+          "o": 9.5,
+          "inning": "Kuwait Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "43aa07c4-1ab3-41e1-8059-2f49af1259f9",
+      "name": "China Women vs Myanmar Women, 19th Match, Group B",
+      "matchType": "t20",
+      "status": "China Women won by 9 wkts",
+      "venue": "UKM-YSD Cricket Oval, Bangi, Malaysia",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T05:30:00",
+      "teams": [
+        "China Women",
+        "Myanmar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Myanmar Women",
+          "shortname": "MYW",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 49,
+          "w": 6,
+          "o": 11,
+          "inning": "Myanmar Women Inning 1"
+        },
+        {
+          "r": 52,
+          "w": 1,
+          "o": 6.5,
+          "inning": "China Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cb7d2ac1-59a2-437a-9222-2c2d1af61c41",
+      "name": "Bahrain Women vs United Arab Emirates Women, 16th Match, Group A",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 69 runs (DLS method)",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T01:30:00",
+      "teams": [
+        "Bahrain Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 3,
+          "o": 20,
+          "inning": "United Arab Emirates Women Inning 1"
+        },
+        {
+          "r": 48,
+          "w": 4,
+          "o": 17.1,
+          "inning": "Bahrain Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "418da5b9-c4fb-4651-ac68-1f6ebe382c2f",
+      "name": "Nepal Women vs Qatar Women, 17th Match, Group A",
+      "matchType": "t20",
+      "status": "Nepal Women won by 9 wkts",
+      "venue": "UKM-YSD Cricket Oval, Bangi, Malaysia",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T01:30:00",
+      "teams": [
+        "Nepal Women",
+        "Qatar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Qatar Women",
+          "shortname": "QAT-W",
+          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 74,
+          "w": 7,
+          "o": 20,
+          "inning": "Qatar Women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 1,
+          "o": 10.3,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "83964029-5f20-4925-9d95-2423d4f8cb78",
+      "name": "Malaysia Women vs Bhutan Women, 18th Match, Group A",
+      "matchType": "t20",
+      "status": "Malaysia Women won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T01:30:00",
+      "teams": [
+        "Malaysia Women",
+        "Bhutan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan Women",
+          "shortname": "BHU-W",
+          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
+        },
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 59,
+          "w": 8,
+          "o": 20,
+          "inning": "Bhutan Women Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 2,
+          "o": 15.4,
+          "inning": "Malaysia Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2db942bd-fc49-4e07-8d48-a5179c083cfb",
+      "name": "Vanuatu Women vs Japan Women, 1st T20I",
+      "matchType": "t20",
+      "status": "Match starts at Aug 28, 02:30 GMT",
+      "venue": "Independence Park, Port Vila",
+      "date": "2023-08-28",
+      "dateTimeGMT": "2023-08-28T02:30:00",
+      "teams": [
+        "Vanuatu Women",
+        "Japan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 65,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Vanuatu Women Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 2,
+          "o": 11.3,
+          "inning": "Japan Women Inning 1"
+        }
+      ],
+      "series_id": "aa86235a-97e3-4453-bd41-2d51a633f08d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1c864658-4527-4501-acd8-34339ea5a990",
+      "name": "Hong Kong Women vs Kuwait Women, 14th Match, Group B",
+      "matchType": "t20",
+      "status": "Hong Kong Women won by 8 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T05:30:00",
+      "teams": [
+        "Hong Kong Women",
+        "Kuwait Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong Women",
+          "shortname": "HKGW",
+          "img": "https://g.cricapi.com/iapi/1123-637877089446450033.webp?w=48"
+        },
+        {
+          "name": "Kuwait Women",
+          "shortname": "KU-W",
+          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 26,
+          "w": 10,
+          "o": 12.2,
+          "inning": "Kuwait Women Inning 1"
+        },
+        {
+          "r": 27,
+          "w": 2,
+          "o": 5.3,
+          "inning": "Hong Kong Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e83d0010-2755-4d70-8287-18a2cc44ef92",
+      "name": "China Women vs Thailand Women, 15th Match, Group B",
+      "matchType": "t20",
+      "status": "Thailand Women won by 9 wkts",
+      "venue": "UKM-YSD Cricket Oval, Bangi, Malaysia",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T05:30:00",
+      "teams": [
+        "China Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 35,
+          "w": 10,
+          "o": 12.3,
+          "inning": "China Women Inning 1"
+        },
+        {
+          "r": 36,
+          "w": 1,
+          "o": 8,
+          "inning": "Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4bd92355-8fc7-46c9-bd17-f9f06132152b",
+      "name": "Qatar Women vs United Arab Emirates Women, 13th Match, Group A",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 51 runs",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T01:30:00",
+      "teams": [
+        "Qatar Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Qatar Women",
+          "shortname": "QAT-W",
+          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 5,
+          "o": 20,
+          "inning": "United Arab Emirates Women Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 8,
+          "o": 20,
+          "inning": "Qatar Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "103a8451-fd4e-415a-bf6e-84d9429d9e32",
+      "name": "Bhutan Women vs Nepal Women, 12th Match, Group A",
+      "matchType": "t20",
+      "status": "Nepal Women won by 3 wkts",
+      "venue": "UKM-YSD Cricket Oval, Bangi, Malaysia",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T01:30:00",
+      "teams": [
+        "Bhutan Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan Women",
+          "shortname": "BHU-W",
+          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 39,
+          "w": 8,
+          "o": 20,
+          "inning": "Bhutan Women Inning 1"
+        },
+        {
+          "r": 41,
+          "w": 7,
+          "o": 13.2,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "83543508-7bce-413e-8cca-1a21507488a5",
+      "name": "Malaysia Women vs Bahrain Women, 11th Match, Group A",
+      "matchType": "t20",
+      "status": "Malaysia Women won by 46 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T01:30:00",
+      "teams": [
+        "Malaysia Women",
+        "Bahrain Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 108,
+          "w": 4,
+          "o": 20,
+          "inning": "Malaysia Women Inning 1"
+        },
+        {
+          "r": 62,
+          "w": 10,
+          "o": 16.4,
+          "inning": "Bahrain Women Inning 1"
+        }
+      ],
+      "series_id": "1f5f11eb-c66b-4707-bf05-f449e37c40ef",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6b9e88d1-690c-4fc7-87ec-243c5667ca90",
+      "name": "Udaipur Lakecity Warriors vs Jaipur Indians, 13th Match",
+      "matchType": "t20",
+      "status": "Udaipur Lakecity Warriors need 13 runs in 3 balls",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T14:00:00",
+      "teams": [
+        "Udaipur Lakecity Warriors",
+        "Jaipur Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jaipur Indians",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Udaipur Lakecity Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 147,
+          "w": 10,
+          "o": 20,
+          "inning": "Jaipur Indians Inning 1"
+        },
+        {
+          "r": 135,
+          "w": 8,
+          "o": 19.3,
+          "inning": "Udaipur Lakecity Warriors Inning 1"
+        }
+      ],
+      "series_id": "fe93abc4-1f75-4f61-b227-bf5330dd4f1f",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6bc320c4-089b-47c0-a5bc-e785eb7cf74b",
+      "name": "Bhilwara Bulls vs Jodhpur Sunrisers, 12th Match",
+      "matchType": "t20",
+      "status": "Jodhpur Sunrisers won by 10 wkts",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T09:30:00",
+      "teams": [
+        "Bhilwara Bulls",
+        "Jodhpur Sunrisers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhilwara Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jodhpur Sunrisers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 148,
+          "w": 8,
+          "o": 20,
+          "inning": "Bhilwara Bulls Inning 1"
+        },
+        {
+          "r": 152,
+          "w": 0,
+          "o": 14.3,
+          "inning": "Jodhpur Sunrisers Inning 1"
+        }
+      ],
+      "series_id": "fe93abc4-1f75-4f61-b227-bf5330dd4f1f",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0c941fcd-cfbe-4f14-8f1c-e38e17a04f02",
+      "name": "Jaanbaaz Kota Challengers vs Bhilwara Bulls, 11th Match",
+      "matchType": "t20",
+      "status": "Jaanbaaz Kota Challengers won by 5 wkts",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T14:00:00",
+      "teams": [
+        "Jaanbaaz Kota Challengers",
+        "Bhilwara Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhilwara Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jaanbaaz Kota Challengers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 176,
+          "w": 6,
+          "o": 20,
+          "inning": "Bhilwara Bulls Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 5,
+          "o": 19.4,
+          "inning": "Jaanbaaz Kota Challengers Inning 1"
+        }
+      ],
+      "series_id": "fe93abc4-1f75-4f61-b227-bf5330dd4f1f",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "13ac45ff-7050-4e91-a3dd-ed544c3d295e",
+      "name": "Shekhawati Soldiers Sikar vs Jodhpur Sunrisers, 10th Match",
+      "matchType": "t20",
+      "status": "Jodhpur Sunrisers won by 5 wkts",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2023-09-03",
+      "dateTimeGMT": "2023-09-03T09:30:00",
+      "teams": [
+        "Shekhawati Soldiers Sikar",
+        "Jodhpur Sunrisers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jodhpur Sunrisers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shekhawati Soldiers Sikar",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 161,
+          "w": 4,
+          "o": 20,
+          "inning": "Shekhawati Soldiers Sikar Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 5,
+          "o": 19,
+          "inning": "Jodhpur Sunrisers Inning 1"
+        }
+      ],
+      "series_id": "fe93abc4-1f75-4f61-b227-bf5330dd4f1f",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "272d6efb-f4fb-483d-bd0e-e298dc610566",
+      "name": "Australia A vs New Zealand A, 2nd unofficial Test",
+      "matchType": "test",
+      "status": "Day 1: Stumps - New Zealand A opt to bat",
+      "venue": "Great Barrier Reef Arena, Mackay",
+      "date": "2023-09-04",
+      "dateTimeGMT": "2023-09-04T03:30:00",
+      "teams": [
+        "Australia A",
+        "New Zealand A"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia A",
+          "shortname": "AUSA",
+          "img": "https://g.cricapi.com/iapi/1429-637926307133296133.webp?w=48"
+        },
+        {
+          "name": "New Zealand A",
+          "shortname": "NZA",
+          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 277,
+          "w": 10,
+          "o": 78.2,
+          "inning": "New Zealand A Inning 1"
+        }
+      ],
+      "series_id": "f717e6ac-5fcb-4417-8bff-2d2f8bc6a079",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 6,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 14,
+    "offsetRows": 0,
+    "totalRows": 45,
+    "queryTime": 37.053,
+    "s": 0,
+    "cache": 0
+  }
+}
